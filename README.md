@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud computing**
 
-- 👯 I’m looking for a full time job as **Computer vision\ML\DL Engineer**
+- 👯 I’m looking for a full time job as **Computer vision\ML\DL\GIS Engineer**
 
 - 🤝 I’m ready to help you out with **CV\ML\DL problems**
 
