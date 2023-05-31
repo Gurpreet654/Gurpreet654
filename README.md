@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
-<h3 align="center">I am enthusiastic about Machine Learning and its potential applications. I am keen to explore the realm of this field and my goal is to work in an organization where I can grow professionally and contribute my skills.</h3>
+<h3 align="center">I am enthusiastic about Computer Vision/Machine Learning and its potential applications. I am keen to explore the realm of this field and my goal is to work in an organization where I can grow professionally and contribute my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreet654&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreet654" /> </p>
 
