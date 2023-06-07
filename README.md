@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ML and NLP projects**
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 I’m currently learning **Cloud computing(GCP)**
 
 - 👯 I’m looking for a full time job as **Computer vision\ML\DL\GIS Engineer**
 
